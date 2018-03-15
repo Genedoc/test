@@ -9,3 +9,5 @@
  Uranus
  Neptune
  
+ 
+ PLanets are defined as objects that are spherical with objects in their orbit
